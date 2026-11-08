@@ -33,5 +33,3 @@ Zakładki porządkują ofertę, a wybór pozycji zmienia opis i galerię.
 ### Wersja angielska
 
 ![Oferta w wersji angielskiej](screenshots/offer-en.webp)
-
-Pełny widok oferty: [oferta](screenshots/offer-full.webp)
